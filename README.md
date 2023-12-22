@@ -28,3 +28,5 @@ geo_country — страна;
 geo_city — город
 
 Пример файла о пользователе содержится в "data\example.json"
+
+Версии библиотек для запуска модели sber_auto_pipe_2.pkl указаны в requirements.txt.
